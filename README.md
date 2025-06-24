@@ -1,8 +1,10 @@
 ♟️ React Chess Game with Custom Chess Engine
+
 A fully functional chess game built with React and a custom chess engine written entirely in JavaScript — no third-party chess libraries used.
 The chess engine handles all move generation, legal move validation, check, checkmate, stalemate detection, castling rules, and pawn promotion.
 
 🔥 Features
+
 ✅ Complete chess rule implementation:
 
 Legal move generation
@@ -30,56 +32,15 @@ Pawn promotion
 🚀 Live Demo
 
 🖥️ Tech Stack
+
 Frontend: React (JavaScript)
 
 Game Logic: Pure JavaScript chess engine
 
 Deployment: Vercel 
 
-📂 Project Structure
-src/
-  components/
-    Board.js
-    Square.js
-    StatusBar.js
-  utils/
-    chessEngine.js
-    moveGenerators/
-      generatePawnMoves.js
-      generateKnightMoves.js
-      generateBishopMoves.js
-      generateRookMoves.js
-      generateQueenMoves.js
-      generateKingMoves.js
-      helpers.js
-  App.js
-  index.js
-  styles/
-    Board.css
-    Square.css
-    StatusBar.css
-
-ChessEngine.js — complete core game logic.
-
-Move Generators — separate move logic for each piece type.
-
-Components — interactive frontend board and controls.
-
-🛠️ Getting Started (Run Locally)
-1️⃣ Clone the repo:
-git clone https://github.com/YOUR_USERNAME/react-chess.git
-cd react-chess
-
-2️⃣ Install dependencies:
-npm install
-
-3️⃣ Run the development server:
-npm start
-
-4️⃣ Open browser at:
-http://localhost:3000
-
 🎯 Future Improvements
+
 Add move history panel
 
 Implement undo functionality
