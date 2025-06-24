@@ -54,10 +54,12 @@ En passant move support
 AI opponent using simple algorithms
 
 🙋‍♀️ Author
+
 Devanshi
 [https://github.com/devanshi-jagadale]
 
 ⭐ Why This Project?
+
 This project was built to demonstrate:
 
 Deep understanding of algorithmic problem solving
