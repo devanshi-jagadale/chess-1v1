@@ -31,6 +31,8 @@ Pawn promotion
 
 🚀 Live Demo
 
+https://chess-1v1.onrender.com/
+
 🖥️ Tech Stack
 
 Frontend: React (JavaScript)
